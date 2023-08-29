@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Джуниор фронтэнд-разработчик Любовь приветствует Вас!</h1>
+<p>
+ • Закончила Яндекс-Практикум и Универститет Сбербанка 2023 году.
+ • Люблю писать сайты на react/redux/js.
+ • Изучаю веб-разработку.
+ • Хочу работать в команде профессионалов и делать мир лучше :)
+</p>
 
-<!--
-**Serenity0506/Serenity0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Мой стек</h2>
+<p>
+  • react
+  • redux
+  • js
+  • figma
+  • html5
+  • css3
+  • tanstack
+</p>
